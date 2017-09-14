@@ -9,5 +9,5 @@ Usage explained in the application itself.
 
 ![Alt text](/Screenshot1.png?raw=true)
 
-As we can see, the optimal path changes completely in the second example even though we only add one wall.
+As we can see, the optimal path changes completely in the second example even though we only added one wall.
 ![Alt text](/Screenshot2.png?raw=true)
