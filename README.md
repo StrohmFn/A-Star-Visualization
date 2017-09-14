@@ -7,5 +7,5 @@ Start the application using Processing (Download: https://processing.org/downloa
 
 Usage explained in the application itself.
 
-![Alt text](/Screenshot1.png?raw=true "Optional Title")
-![Alt text](/Screenshot2.png?raw=true "Optional Title")
+![Alt text](/Screenshot1.png?raw=true)
+![Alt text](/Screenshot2.png?raw=true)
