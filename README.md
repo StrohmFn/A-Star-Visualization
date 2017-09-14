@@ -8,4 +8,6 @@ Start the application using Processing (Download: https://processing.org/downloa
 Usage explained in the application itself.
 
 ![Alt text](/Screenshot1.png?raw=true)
+
+As we can see, the optimal path changes completely in the second example even though we only add one wall.
 ![Alt text](/Screenshot2.png?raw=true)
